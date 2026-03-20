@@ -25,8 +25,12 @@ The much needed finesse would be able to run the object detection models with an
 To run the program, manually enter the command in the terminal inside the container folder: `python3 final.py`
 
 ## Members
+### Project Members
 Sanat Kumar Behera, Int. MSc. Batch 22
 Vishal Meena, Int. MSc. Batch 22
 Abhishek S., Int. MSc. Batch 21
+
+### Project Guidance
+Girija Sankar Ray, Int. MSc. Batch 21
 
 _This project was submitted towards the Hackduino 3.0 Internship._
